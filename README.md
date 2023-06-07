@@ -1,10 +1,10 @@
-# Ruby on Replit
+# Desafío Flujos ciclos y métodos
+Contiene 4 ejercicios
+1_al_20.rb
+1_al_20impar.rb
+multiplicar.rb
+triangulo.rb
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
-
-## Running the repl
-
-Simply hit run! You can edit the run command from the `.replit` file.
 
 ## Installing packages
 
